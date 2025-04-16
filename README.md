@@ -87,6 +87,38 @@ print("RMSE =", rmse)
 ```
 
 ## Output:
+## Dataset
+
+![image](https://github.com/user-attachments/assets/799d798b-e783-4ee3-9a03-e25af811aae4)
+
+## Head Values
+![image](https://github.com/user-attachments/assets/6d403087-2eb3-46a5-886f-4f7e815ae45a)
+
+
+## Tail Values
+![image](https://github.com/user-attachments/assets/e6ead08a-3a9d-4f98-b45d-67ac29f7a726)
+
+## X and Y values
+![image](https://github.com/user-attachments/assets/724acd1b-4137-4c6f-8713-b3e0be1f58b2)
+
+
+## Predication values of X and Y
+![image](https://github.com/user-attachments/assets/a12182eb-7d47-4ce5-be10-5d9db2bcb160)
+
+
+## MSE,MAE and RMSE
+![image](https://github.com/user-attachments/assets/ee1e9206-5cdb-4f6a-aabe-4014055d6196)
+
+
+## Training Set
+![image](https://github.com/user-attachments/assets/b9832442-921d-41e3-9c8c-1ca93b86e8a6)
+
+
+## Testing Set
+![image](https://github.com/user-attachments/assets/cd4fb883-cbf9-4949-913c-de7d7dde873f)
+
+## Developed by : BALA SARAVANAN K
+## Reg no: 24900611
 
 
 
