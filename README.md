@@ -83,10 +83,6 @@ print("\nEvaluation Metrics:")
 print("MSE =", mse)
 print("MAE =", mae)
 print("RMSE =", rmse)
-
-
-Developed by: BALA SARAVANAN K
-RegisterNumber:  212224230031
 */
 ```
 
